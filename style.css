@@ -47,8 +47,22 @@ h1,p {
     width: 495px;
 }
 section {
-    flex: 2
+    flex: 2;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 0px;
 }
 aside {
-    flex: 1
+    flex: 1;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 0px;
+    margin-left: 5px;
+}
+.outside{
+    padding-top: 25px;
+    padding-right: 0px;
+    padding-bottom: 25px;
+    padding-left: 0px;
 }
